@@ -1,1 +1,2 @@
-# A Portolio Website of Mr. Shubham Kumar a Student of IIT (ISM) Dhanbad
+# A Portolio Website of Shubham Kumar a Student of IIT (ISM) Dhanbad
+## https://shubhamskg.netlify.app/
