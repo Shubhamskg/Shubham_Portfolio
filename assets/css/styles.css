@@ -276,7 +276,9 @@ body.light-theme{
   display: flex;
   border-radius: 5rem;
 }
-
+.pointer{
+  cursor: pointer;
+}
 /* Active link */
 .active-link{
   background: linear-gradient(180deg,
@@ -973,6 +975,11 @@ body.light-theme{
   }
   .work__img{
     width: 295px;
+    height: 180px;
+  }
+  .work__img1{
+    width: 295px;
+    height: 180px;
   }
   .contact__info{
     grid-template-columns: 300px;
